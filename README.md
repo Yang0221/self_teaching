@@ -6,7 +6,10 @@
 - 资源 :python 30days https://github.com/Asabeneh/30-Days-Of-Python/blob/master/Chinese/03_operators.md
 #### 重要结点
 - [x] 变量、数据类型、循环、条件语句
-- [ ] 函数、模块、异常处理
+- [x] 函数
+- [x] 异步 async await
+- [x] api
+- [ ] 模块
 - [ ] 面向对象编程（类、继承、多态）
 
 ---
