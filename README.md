@@ -1,7 +1,6 @@
 # Slef-teaching 目录
 + 所有自学的文件都集中到这里
 ---
-<<<<<<< HEAD
 ### React 技术官网文档
 #### 开始时间 7/5/2026
 - 资源：https://zh-hans.react.dev/learn
