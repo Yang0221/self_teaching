@@ -17,7 +17,6 @@
   </h1>
 - [ ]
 ### project 2 :python  30 days
-=======
 ### project 3: React 
 #### 开始时间：2/02/2026
 - 资源： 【12分钟了解React所有概念-哔哩哔哩】 https://b23.tv/oke43VJ
@@ -32,7 +31,6 @@
 - [ ] 6. 生命周期
 ---
 ### project 2: python  30 days
->>>>>>> 1b1ab87fecdaad47a254bb38a5c835aba0e3d3d1
 #### 开始时间：27/05/2025
 - 资源: python 30days https://github.com/Asabeneh/30-Days-Of-Python/blob/master/Chinese/03_operators.md
 #### 重要结点
