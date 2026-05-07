@@ -1,6 +1,21 @@
 # Slef-teaching 目录
 + 所有自学的文件都集中到这里
 ---
+### React 技术官网文档
+#### 开始时间 7/5/2026
+- 资源：https://zh-hans.react.dev/learn
+#### 重要节点
+- [ ]快速入门 
+- 如何创建和嵌套组件
+- 如何添加标签和样式
+- 如何显示数据
+- 如何渲染条件和列表
+- 如何对事件做出响应并更新界面
+- 如何在组件间共享数据 
+ 比如： <h1>
+    {user.name}
+  </h1>
+- [ ]
 ### project 2 :python  30 days
 #### 开始时间：27/05/2025
 - 资源 :python 30days https://github.com/Asabeneh/30-Days-Of-Python/blob/master/Chinese/03_operators.md
