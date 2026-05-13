@@ -3,7 +3,7 @@
 ---
 ### React 技术官网文档
 #### 文件储蓄
-- macbook  code/study-react文件夹
+- macbook  code/study-react文件夹 (vscode 练习)
 #### 开始时间 7/5/2026
 - 资源：https://zh-hans.react.dev/learn
 #### 重要节点
@@ -21,6 +21,9 @@
 - [ ] 教程：井字游戏演示
 - - [x] 安装react 框架：遇到了需要改成局部环境的问题， 那么使用的是npx 命令来安装 npx intall -g react-app 
 - - [x] 构建棋盘
+- - [ ] 执行游戏的命令： xnp 。。。。*
+- - [ ] 创建 index.js 
+- - [ ] 写完 app.js 文件
 #### 
 ### project 3: React 
 #### 开始时间：2/02/2026

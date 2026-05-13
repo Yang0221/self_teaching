@@ -4,12 +4,33 @@ function MyButton(){
         <button>我是一个按钮</button>
     );
 }
-export default function MyApp(){
-    return (
-        <div>
-            <h1>欢迎来到yi 的应用</h1>
-            <MyButton/>
-        </div>
-    );
+// export default function MyApp(){
+//     return (
+//         <div>
+//             <h1>欢迎来到yi 的应用</h1>
+//             <MyButton/>
+//         </div>
+//     );
 
+// }
+export default function Square() {
+    return ( 
+        <>
+            <div className="board-row">
+                <button className="square">1</button>
+                <button className="square">1</button>
+                <button className="square">1</button>
+            </div>
+            <div className="board-row">
+                <button className="square">1</button>
+                <button className="square">1</button>
+                <button className="square">1</button>
+            </div>
+            <div className="board-row">
+                <button className="square">1</button>
+                <button className="square">1</button>
+                <button className="square">1</button>
+            </div>
+                
+        </>);
 }
