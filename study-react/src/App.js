@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { useState } from 'react';
 
 // function App() {
 //   return (
@@ -24,13 +25,7 @@ import './App.css';
 // }
 
 // export default App;
-
 //import "./styles.css";
-function MyButton(){
-    return (
-        <button>我是一个按钮</button>
-    );
-}
 // export default function MyApp(){
 //     return (
 //         <div>
@@ -40,26 +35,31 @@ function MyButton(){
 //     );
 
 // }
-function Square({value}){
-    return <button className="square">{value}</button>
+function Square(){
+    const [value, setValue] = useState(null);
+
+    function handleClick(){
+        setValue('X');
+    }
+    return <button className="square" onClick={handleClick}>{value}</button>
 }
 export default function Board() {
     return ( 
         <>
             <div className="board-row">
-                <Square value="1"/>
-                <Square value="2"/>
-                <Square value="3"/>
+                <Square />
+                <Square />
+                <Square />
             </div>
             <div className="board-row">
-                <Square value="4"/>
-                <Square value="5"/>
-                <Square value="6"/>
+                <Square />
+                <Square />
+                <Square />
             </div>
             <div className="board-row">
-                <Square value="7"/>
-                <Square value="8"/>
-                <Square value="9"/>
+                <Square />
+                <Square />
+                <Square />
             </div>
                 
         </>
